@@ -15,11 +15,13 @@
 - [ ] See the tech I have experience with! 
 
 ### Who Am I? 👺🍆
-~~I am a nugget who likes eating eggpl 🍆💦 ~~
+~~I am a nugget who likes eating eggpl 🍆💦~~
 
-> I am a third year computer science student who is passionate about
-
-> the software side of things!
+> I have a dream that one day this nation will rise up and live out
+> the true meaning of its creed:“We hold these truths to be self-evident, that all men are created equal.”
+~~Thomas Allan Powell~~
+~~MLK~~
+> Speech by Confucius (2023) 
 
 ` git add 🍆💦🍆💦🍆💦`
 
@@ -44,8 +46,9 @@ A Button Appears! Press? [Button!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 2. React native
 3. Git and Agile
 4. Unity and Unreal
+5. Microwaves
+6. Ovens
 
 
-### In case you guys wanna see the pictures here for some reason!
+### Scroll up
 ![Part 1](Pic1.png)
-![Part 2](Pic2.png)
