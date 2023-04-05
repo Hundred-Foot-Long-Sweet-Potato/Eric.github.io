@@ -1,10 +1,13 @@
 ## Eric Chen's User Page!
 
 ### Table of contents!
-[Go to Tasks!](###tasks!)
-[Go to Who I Am!](###who-am-i?)
-[languages](###some-languages-i-know)
-[tech](###tech-i-have-experience-in) 
+[Go to Tasks!](#tasks)
+
+[Go to Who I Am!](#who-am-i)
+
+[languages](#some-languages-i-know)
+
+[tech](#tech-i-have-experience-in) 
 
 ### Tasks!
 - [ ] See who I am!
@@ -44,10 +47,5 @@ A Button Appears! Press? [Button!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ### In case you guys wanna see the pictures here for some reason!
-<picture>
-    <source srcset="root/Pic1.png">
-</picture>
-
-<picture>
-    <source srcset="root/Pic2.png">
-</picture>
+![Part 1](Pic1.png)
+![Part 2](Pic2.png)
