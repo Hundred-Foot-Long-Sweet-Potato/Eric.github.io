@@ -19,9 +19,14 @@
 
 > I have a dream that one day this nation will rise up and live out
 > the true meaning of its creed:“We hold these truths to be self-evident, that all men are created equal.”
-~~Thomas Allan Powell~~
-~~MLK~~
+
+> ~~Thomas Allan Powell~~
+
+> ~~MLK~~
+
 > Speech by Confucius (2023) 
+
+> For point reasons this is my best guess at who said the quote
 
 ` git add 🍆💦🍆💦🍆💦`
 
