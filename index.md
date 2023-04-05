@@ -30,7 +30,7 @@
 
 A Button Appears! Press? [Button!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[A button that goes to Itself!?](root/index.md)
+[A button that goes to Itself!?](index.md)
 
 ### Some languages I know
 - C#
